@@ -1,7 +1,7 @@
 /// <reference types="Cypress" />
 
 const page = "https://testing-dev.siviltech.com/"
-const email = 'miguel+automation10@byyuto.com'
+const email = 'miguel+automation10@test.com'
 const password = "Pruebastest1!"
 
 

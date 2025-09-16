@@ -2,11 +2,11 @@
 
 
 const page = "https://testing-dev.siviltech.com/"
-const email = 'miguel+automation10@byyuto.com'
-const email_2= "miguel+automationdev2@byyuto.com"
-const password = "Pruebasbyyuto1!"
-const wrong_email = "mguel+portaldev13@byyuto.com"
-const wrong_password = "pruebasbyyuto1"
+const email = 'miguel+automation10@test.com'
+const email_2= "miguel+automationdev2@test.com"
+const password = "Pruebastest1!"
+const wrong_email = "mguel+portaldev13@test.com"
+const wrong_password = "pruebastest1"
 
 describe("Checking Data",() =>{
     beforeEach(() => {
